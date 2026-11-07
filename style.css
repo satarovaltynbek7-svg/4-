@@ -1,0 +1,18 @@
+.box{
+    width:600px;
+    height: 600px;
+    border: 2px solid black;
+    /* padding: 50px;
+    margin: 100px; */
+    padding: 10px 30px 50px 80px;
+    margin: 10px 30px 50px 80px;
+
+}
+.block{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    margin-top: 50px;
+    /* margin: 50px;
+    padding: 20px; */
+}
